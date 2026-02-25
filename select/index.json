@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "夢伝説",
+  "base_artist": "德永英明",
+  "createdAt": "2026-02-25T13:39:35.102110Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夢伝説",
+      "artist": "ゴスペラーズ",
+      "has_synced": true,
+      "path": "select/01_夢伝説_ゴスペラーズ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夢伝説",
+      "artist": "徳永 英明",
+      "has_synced": false,
+      "path": "select/pl_01_夢伝説_徳永_英明.txt"
+    }
+  ]
+}
